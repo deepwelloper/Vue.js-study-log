@@ -1,11 +1,9 @@
 # Vue.js-Study-Log
 ### Study Log of Vue.js  
-
-### Study Logs
 자세한 내용은 [DEEPWELLOPER VUELOG](https://deepwelloper.tistory.com/category/Web/Vue.js)에 정리하고 있습니다.
 
 ### References  
-1. [Vue.js 한국 사용자 모임](http://vuejs.kr/)
+1. [Vue.js 한국 사용자 모임](http://vuejs.kr/)
 2. [Vue.js 공식가이드](https://kr.vuejs.org/v2/guide/)  
 3. [Vue.js 입문서 - 프론트엔드 개발자를 위한](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 4. [Vue.js 빠른시작 - Todo 만들기](https://blog.storyg.co/vue-js-posts/todos-tutorial)
