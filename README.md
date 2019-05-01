@@ -8,9 +8,6 @@
 ```bash
 .
 ├── README.md
-├── src
-│   └── img
-│       └── deepwelloper_D_5.png
 └── vuejs-guide
     ├── app.js
     └── index.html
