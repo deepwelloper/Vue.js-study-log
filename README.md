@@ -1,7 +1,5 @@
 # Vue.js-Study-Log
 ### Study Log of Vue.js  
-
-### Study Logs
 자세한 내용은 [DEEPWELLOPER VUELOG](https://deepwelloper.tistory.com/category/Web/Vue.js)에 정리하고 있습니다.
 
 ### References  
