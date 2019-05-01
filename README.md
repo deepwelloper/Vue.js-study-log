@@ -2,6 +2,14 @@
 ### Study Log of Vue.js  
 자세한 내용은 [DEEPWELLOPER VUELOG](https://deepwelloper.tistory.com/category/Web/Vue.js)에 정리하고 있습니다.
 
+```bash
+.
+├── README.md
+└── vuejs-guide
+    ├── app.js
+    └── index.html
+```
+
 ### References  
 1. [Vue.js 한국 사용자 모임](http://vuejs.kr/)
 2. [Vue.js 공식가이드](https://kr.vuejs.org/v2/guide/)  
