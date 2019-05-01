@@ -1,5 +1,5 @@
 # Vue.js-Study-Log  
-<center><img src="https://user-images.githubusercontent.com/50080087/57029169-e7f6d000-6c7b-11e9-8f5f-63e45bd60634.png"></img></center>
+<center><img src="https://user-images.githubusercontent.com/50080087/57029169-e7f6d000-6c7b-11e9-8f5f-63e45bd60634.png"></img></center>  
 ### Study Log of Vue.js  
 자세한 내용은 [DEEPWELLOPER VUELOG](https://deepwelloper.tistory.com/category/Web/Vue.js)에 정리하고 있습니다.
 
