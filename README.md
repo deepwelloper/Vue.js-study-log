@@ -13,7 +13,7 @@
 6. [Vue 인스턴스 - #6 속성과 메소드](https://deepwelloper.tistory.com/entry/Vue-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-6-%EC%86%8D%EC%84%B1%EA%B3%BC-%EB%A9%94%EC%86%8C%EB%93%9C)
 7. [Vue 인스턴스 - #7 인스턴스 라이프사이클 훅](https://deepwelloper.tistory.com/entry/Vue-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-7-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4-%ED%9B%85)
 8. [Vue 인스턴스 - #8 라이프사이클 다이어그램](https://deepwelloper.tistory.com/entry/Vue-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-8-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8)
-9. [Vue 템플릿 문법 - #9 보간법](https://deepwelloper.tistory.com/entry/Vue-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%AC%B8%EB%B2%95-9-%EB%B3%B4%EA%B0%84%EB%B2%95)
+9. [Vue 템플릿 문법 - #9 보간법](https://deepwelloper.tistory.com/entry/Vue-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%AC%B8%EB%B2%95-9-%EB%B3%B4%EA%B0%84%EB%B2%95)
 10. [Vue 템플릿 문법 - #10 디렉티브](https://deepwelloper.tistory.com/entry/Vue-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%AC%B8%EB%B2%95-10-%EB%94%94%EB%A0%89%ED%8B%B0%EB%B8%8C)
 11. [Vue 템플릿 문법 - #11 약어](https://deepwelloper.tistory.com/entry/Vue-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%AC%B8%EB%B2%95-11-%EC%95%BD%EC%96%B4)
 12. [Vue computed와 watch - #12 computed 속성](https://deepwelloper.tistory.com/entry/Vue-computed%EC%99%80-watch-12-computed-%EC%86%8D%EC%84%B1)
