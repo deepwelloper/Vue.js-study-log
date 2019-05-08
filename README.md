@@ -51,3 +51,6 @@
 2. [Github Clone Coding](https://velog.io/@gksdnr89/Vue%EB%A1%9C-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%ED%95%98%EA%B8%B0-1%ED%83%84-vyjsj6p9bd)
 3. [Medium Clone Coding](https://www.youtube.com/watch?v=A4ohbrcgcIg)
 4. [Youtube Clone Coding](https://medium.com/techtrument/build-a-video-player-like-youtube-in-vuejs-webpack-and-flexbox-b51ef9bede0b)
+
+### Projects with Vue.js
+1. [Create your Blockchain DApp with Ethereum and VueJS](https://medium.com/@favs83/create-your-blockchain-dapp-with-ethereum-and-vuejs-tutorial-intro-db0bd9bc9c93)
