@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+    <head>
+        <!-- 도움되는 콘솔 경고를 포함한 개발 버전 -->
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <!-- 상용버전, 속도와 용량이 최적화됨. -->
+        <!--<script src="https://cdn.jsdelivr.net/npm/vue"></script>-->
+    </head>
+    <body>
+        <div id="app">
+            <p>{{ foo }}</p>
+            <!-- obj.foo는 더이상 변하지 않습니다! -->
+            <button v-on:click="foo = 'baz'">Change it</button>
+        </div>
+    </body>
+    <script src="app.js"></script>
+</html>
