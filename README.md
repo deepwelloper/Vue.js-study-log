@@ -31,6 +31,7 @@
     │   └── index.html
     └── 02-vue-instance
         └── app.js
+        └── index.html
 ```
 
 
